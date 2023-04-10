@@ -1,0 +1,53 @@
+header{
+	text-align: center;
+	font-size: 1.8rem;
+	margin-top: 16px;
+	padding: 20px;
+	font-weight: bold;
+}
+
+.content{
+width: 90%;
+background-color: lightgray; 
+}
+.explain{
+	text-align: center;
+	margin-bottom: 30px;
+}
+#anxiety{
+	background-color: lightpink;
+	border: none;
+	color: black;
+	padding: 5px 20px;
+	margin: 5px auto;
+}
+#exciting{
+	background-color: lightblue;
+	border: none;
+	color: black;
+	padding: 5px 20px;
+	margin: 5px auto;
+}
+#depression{
+	background-color: lightgreen;
+	border: none;
+	color: black;
+	padding: 5px 20px;
+	margin: 5px auto;
+}
+.result_container{
+	display: flex;
+	justify-content: center;
+    align-items: center;
+}
+
+#result{
+	width: 80%;
+	font-weight: bold;
+	border-color: lightblue; 
+	border-style: dashed; 
+	margin-top: 50px;
+	padding: 50px 10px;
+	text-align: center;
+	border-radius: 10%;
+}
