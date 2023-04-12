@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://sportselftalk.netlify.app/sitemap.xml
