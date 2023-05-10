@@ -22,7 +22,6 @@ header{
 	color: white;
 	font-weight: bold;
 }
-
 .content{
 	width: 90%;
 	background-color: lightgray; 
@@ -30,8 +29,16 @@ header{
 .explain{
 	color: white;
 	text-align: center;
-	margin-bottom: 30px;
 }
+.explain p{
+	margin-bottom: 0px;
+}
+
+.button_container{
+	text-align: center;
+	margin-bottom: 20px;
+}
+
 #anxiety{
 	background-color: lightpink;
 	border: none;
