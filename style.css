@@ -78,3 +78,15 @@ header{
 	text-align: center;
 	border-radius: 5px;
 }
+
+#anxiety:hover{
+	background-color: whitesmoke;
+}
+
+#exciting:hover{
+	background-color: whitesmoke;
+}
+
+#depression:hover{
+	background-color: whitesmoke;
+}
